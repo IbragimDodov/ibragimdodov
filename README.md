@@ -6,7 +6,7 @@
 
 # Hi! I'm Ibragim 👋
 
-<p align="left">I'm frontend developer who likes to work with JS & React. I also like mentoring people who want to become developers. I've been living in Ingushetiya recently.</p>
+<p align="left">I'm frontend developer who likes to work with JS & React.</p>
 
 ## 🤙 My сontacts
 
