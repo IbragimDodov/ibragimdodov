@@ -11,7 +11,7 @@
 ## 🤙 My сontacts
 
 [![Telegram](https://img.shields.io/badge/-ibragim-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/idodov)](https://t.me/idodov)
-[![utisey@gmail](https://img.shields.io/badge/-@Mail-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:utisey@gmail.com)](mailto:utisey@gmail.com)
+[![Mail](https://img.shields.io/badge/-utisey@gmail.com-c2e7ff?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:utisey@gmail.com)](mailto:utisey@gmail.com)
 
 ## 💻 Below you will find some of my projects
 
